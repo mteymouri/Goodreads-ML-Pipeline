@@ -1,0 +1,14 @@
+pandas
+plotly
+json
+gzip
+matplotlib
+seaborn
+numpy
+random
+warnings
+scikit-learn
+xgboost
+pickle
+requests
+flask 
